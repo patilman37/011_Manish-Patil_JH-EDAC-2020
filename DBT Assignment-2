@@ -143,8 +143,8 @@ create table Employee(
 emp_id integer,
 emp_name char(50)) ;
 
-insert into  Employee values(1,'UMESH CHOUDHARI');
-insert into  Employee values(2,'UDIT NEMADE');
+insert into  Employee values(1,'MANISH PATIL');
+insert into  Employee values(2,'SHUBHAM BADHE');
 insert into  Employee values(3,'TEJAS RANE');
 alter table employee add column dept_id varchar(20);
 alter table employee modify column emp_name varchar(50);
